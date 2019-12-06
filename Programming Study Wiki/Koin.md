@@ -9,7 +9,7 @@ Kotlin 개발자를 위한 실용적인 경량 DI(Dependency Injection) 프레�
 
 프록시, 코드 생성, 리플렉션 없이 기능적 해결법만 사용하여 순수한 Kotlin으로 작성되었다.
 
-Koin은 [`DSL`](DSL Domain Specific Language.md)로 가벼운 컨테이너며 실용적인 API다. 
+Koin은 [`DSL`](DSL%20Domain%20Specific%20Language.md)로 가벼운 컨테이너며 실용적인 API다. 
 
 # Setup Koin for Your project
 
